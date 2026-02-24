@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Python | HTML5 | CSS | Java | JavaScript | MySQL
+  🦄 Python | HTML5 | CSS | Java | JavaScript | MySQL | PHP
 </p>
 
 <p align="left">
-  💼 Visual Studio Code | Trello | Figma
+  💼 Visual Studio Code | Trello | Figma | Illustrator
 </p>
 
 <p align="left">
