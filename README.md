@@ -1,7 +1,7 @@
 ## Hello! 👋
 
 <p align="left"> 
-  My name is Marina, a <strong>programming student</strong>, working as a software dev, using mainly PHP and JavaScrpit, to create new pages and functions for their business. Always looking and learning new things in the tech area.<br>
+  My name is Marina, a <strong>programming student</strong>, working as a software dev, using mainly PHP and JavaScript, to create new pages and functions for their business. Always looking and learning new things in the tech area.<br>
 </p>
 
 <p align="left">
